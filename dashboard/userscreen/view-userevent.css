@@ -1,0 +1,33 @@
+.card {
+    background-color: #212529;
+    border-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    background-image: url(../../EventPlanner.jpg);
+    background-size: cover;
+}
+.img{
+    background-image: url(../../EventPlanner.jpg);
+    background-size: cover;
+    height: 600px;
+}
+.imgs{
+    background-image: url(../../party.jpg);
+    background-size: cover;
+}
+
+.card-body {
+    border-radius: 10px;
+}
+
+.list-group-item {
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.5);
+    color: #fff;
+}
+
+.list-group-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,60 @@
+body {
+    background:rgba(137, 43, 226, 0.283);
+    padding-top: 20vh;
+    background-size: cover;
+    background-position: center;
+    object-fit: contain;
+
+
+    background-image:url(../e5.webp);
+    background-size: cover;
+    height: 500px;
+}
+
+/*.img{
+    background-image:url(../e5.webp);
+    background-size: cover;
+    height: 600px;
+    object-fit: fill;
+}
+*/
+form {
+    background:white;
+}
+
+.form-container {
+    border-radius: 10px;
+    padding: 30px;
+    height: auto;
+    color: black;
+    
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .login-button {
+    display: block;
+    margin: 0 auto;
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .login-button:hover {
+    background-color:blue;
+  }
+
+  .form-footer{
+    margin-top: 10px;
+  }

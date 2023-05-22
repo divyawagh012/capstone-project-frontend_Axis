@@ -1,0 +1,20 @@
+body {
+    background: white;
+}
+#forgot-password-form {
+    margin-top: 80px;
+    background-color: rgba(137, 43, 226, 0.500);
+    padding: 120px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+    color: azure;
+}
+
+#forgot-password-form label {
+    font-weight: bold;
+    color: blue;
+}
+
+#forgot-password-form button[type="submit"] {
+    margin-top: 20px;
+}
